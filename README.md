@@ -4,6 +4,10 @@
 
 ## 本次改动
 适配了25款炫彩灯的设置，根据自己需求将320Hz切换也加入了托盘菜单。
+<img width="1250" height="937" alt="{56B6D220-6A22-4F79-9B96-6C23C11382C5}" src="https://github.com/user-attachments/assets/cdbfdb00-491f-4445-a17c-97a70c535f7e" />
+<img width="1250" height="937" alt="{F7D9B7DC-7BC5-4347-A167-5DBFB7384B13}" src="https://github.com/user-attachments/assets/83f8a75f-d86d-43a0-b547-dbee1d862e1c" />
+
+
 
 ## 说明
 - 这是个人fork分支，仅增加适配Redmi G Pro 27U 25款显示器炫彩灯与320Hz托盘切换功能；
